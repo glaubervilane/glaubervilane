@@ -35,6 +35,6 @@
 </div>
 <hr/>
 <br/>
-I'm a brazilian software developer living in Canada. Curious, thirsty to learn and self-taught to gain knowledge. A Highly motivated, dedicated, and results-driven professional with experience in Fullstack development using C# and .NET framework as well as JavaScript. Passionate about the creative process with an internet approach; knowledgeable and fluent in technologies such as HTML, CSS, JavaScript, SQL, and C#, and in using ASP.NET, Bootstrap, and JQuery.In my free time, I love to learn new skills and open doors into the technology world, and I have using my skills in some volunteers projects, as welll as I love to be with my family and have fun.
+I'm a software developer. Curious, thirsty to learn and self-taught to gain knowledge. A Highly motivated, dedicated, and results-driven professional with experience in Fullstack development using C# and .NET framework as well as JavaScript and Node js. Passionate about the creative process with an internet approach; knowledgeable and fluent in technologies such as HTML, CSS, JavaScript, Node, SQL, and C#, and in using ASP.NET, Bootstrap, and JQuery.In my free time, I love to learn new skills and open doors into the technology world, and I have using my skills in some volunteers projects, as welll as I love to be with my family and have fun.
 
 
