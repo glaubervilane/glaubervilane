@@ -1,14 +1,14 @@
 ### Hi there 🖐️ 
 
 <ul>
-  <li>💻 I'm currenctly working on an a big software company as a support engineer with C# applications and it's funtionalities.</li>
-  <li>🍁 I'm currenctly living in Canada.</li>
+  <li>💻 I'm currently working on an a big software company as a support engineer with C# applications and its functionalities.</li>
+  <li>🍁 I'm currently living in Canada.</li>
   <li>😎 My hobbies are Family👪, Travel🛫, Cinema🎦, Games🎮 and Cooking👨‍🍳</li>
-  <li>👨‍💻 I love to learn new technologies and go foward into this world</li>
+  <li>👨‍💻 I love to learn new technologies and go forward into this world</li>
 </ul><br/>
 
 
-[![Blog](https://img.shields.io/website?label=http://glaubermarques.com&style=for-the-badge&url=http://glaubermarques.azurewebsites.net/)](http://glaubermarques.azurewebsites.net/)
+[![Blog](https://img.shields.io/website?label=http://glaubermarques.com&style=for-the-badge&url=http://glaubermarques.azurewebsites.net/)](http://glaubermarques.writing.io/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/glauberdev/)
 [![Blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaubervilane/)
 <hr/>
