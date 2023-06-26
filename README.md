@@ -10,7 +10,9 @@
 
 [![Blog](https://img.shields.io/website?label=http://glaubermarques.com&style=for-the-badge&url=http://glaubermarques.azurewebsites.net/)](http://glaubermarques.writing.io/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/glauberdev/)
-[![Blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaubervilane/)
+<a href="https://www.linkedin.com/in/glaubervilane/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 <hr/>
 
 ![Glauber's GitHub stats](https://github-readme-stats.vercel.app/api?username=glaubervilane&show_icons=true&theme=dracula)
