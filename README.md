@@ -17,6 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaubervilane&layout=compact)](https://github.com/glaubervilane/github-readme-stats)
 <hr/>
+
 ### Technologies I use in day to day bases
 
 <div style="display: inline_block"><br/>
