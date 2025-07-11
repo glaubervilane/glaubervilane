@@ -1,7 +1,7 @@
 ### Hi there 🖐️ 
 
 <ul>
-  <li>💻 I'm currently working on an a big software company as a support engineer with C# applications and its functionalities.</li>
+  <li>💻 I'm currently working on an a big construction company as a Software Developer with C# applications and its functionalities.</li>
   <li>🍁 I'm currently living in Canada.</li>
   <li>😎 My hobbies are Family👪, Travel🛫, Cinema🎦, Games🎮 and Cooking👨‍🍳</li>
   <li>👨‍💻 I love to learn new technologies and go forward into this world</li>
